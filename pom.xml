@@ -41,7 +41,7 @@
 	</build>
 
 	<properties>
-		<batik_v>1.10</batik_v>
+		<batik_v>1.12</batik_v>
 		<java.version>1.10</java.version>
 	</properties>
 
